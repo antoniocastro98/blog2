@@ -10,6 +10,15 @@
     <lastBuildDate>Sat, 09 Oct 2021 13:30:39 +0300</lastBuildDate><atom:link href="https://antoniocastro.netlify.app/implantacion/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>prueba</title>
+      <link>https://antoniocastro.netlify.app/implantacion/javiervega/</link>
+      <pubDate>Sat, 09 Oct 2021 13:30:39 +0300</pubDate>
+      
+      <guid>https://antoniocastro.netlify.app/implantacion/javiervega/</guid>
+      <description>Hola soy javier vega </description>
+    </item>
+    
+    <item>
+      <title>prueba</title>
       <link>https://antoniocastro.netlify.app/implantacion/prueba/</link>
       <pubDate>Sat, 09 Oct 2021 13:30:39 +0300</pubDate>
       
